@@ -140,3 +140,4 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
    :mask:
+   kawinthida 5004
